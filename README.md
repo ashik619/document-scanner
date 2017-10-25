@@ -1,6 +1,6 @@
 # document-scanner
-Document scanner for android using OpenCV (without the manager app)
-Uses OpenCV 3.0
+Document scanner for android using OpenCV (without the manager app)<br/>
+Uses OpenCV 3.0<br/>
 JNI files openCV library is available for all Core Architecture("armeabi", "armeabi-v7a", "arm64-v8a", "x86", "x86_64","MIPS")
 
 # Usage
